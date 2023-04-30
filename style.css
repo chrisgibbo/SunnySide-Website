@@ -46,3 +46,7 @@ body{
 .dark-blue{
     color: var(--darkBlue);
 }
+
+.greyish-blue{
+    color: var(--grayishBlue);
+}
