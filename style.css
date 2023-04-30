@@ -29,3 +29,16 @@ font family Barlow 600, Fraunces 700, 900 */
 body{
     font-family: "Barlow";
 }
+
+.f-f-700,
+.f-f-900{
+    font-family: "Fraunces";
+}
+
+.f-f-700{
+    font-weight: 700;
+}
+
+.f-f-900{
+    font-weight: 900;
+}
