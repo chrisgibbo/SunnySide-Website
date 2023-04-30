@@ -14,7 +14,7 @@ font family Barlow 600, Fraunces 700, 900 */
     /* Primay colors */
     --darkCyan: hsl(167, 40%, 24%); 
     --darkGreen: hsl(198, 62%, 26%);
-    --darkModCyan: hsl(168, 34%, 41%);
+    --darkModCyan: hsl(168, 49%, 62%);
 
     /* Neutral colors */
     --veryDarkCyan: hsl(212,27%, 19%);
@@ -57,13 +57,13 @@ body{
 }
 
 .darkcyan{
-    color: var(--darkCyan);
+    color: #2C7566;
 }
 
 .darkgreen{
     color: var(--darkGreen);
 }
 
-.darkmodcyan {
-    color: var(--darkModCyan);
+.bg-modcyan {
+    background-color: var(--darkModCyan);
 }
