@@ -19,7 +19,7 @@ font family Barlow 600, Fraunces 700, 900 */
     --darkModCyan: hsl(168, 34%, 41%);
 
     /* Neutral colors */
-    --veryDarkBlue: hsl(212,27%, 19%);
+    --veryDarkCyan: hsl(212,27%, 19%);
     --veryDarkBlue: hsl(213, 9%, 39%);
     --darkBlue: hsl(232, 10%, 55%);
     --grayishBlue: hsl(210, 4%, 67%);
@@ -53,4 +53,8 @@ body{
 
 .verydarkblue{
     color: var(--veryDarkBlue);
+}
+
+.verydarkcyan{
+    color: var(--veryDarkCyan);
 }
