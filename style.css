@@ -68,10 +68,7 @@ body{
     background-color: var(--darkModCyan);
 }
 
-.social-icon-div path{
-    fill: #2C7566;
+.fa-brands:hover{
+    color: #fff !important;
 }
 
-.social-icon-div path:hover{
-    fill: #fff;
-}
