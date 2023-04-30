@@ -50,3 +50,7 @@ body{
 .greyish-blue{
     color: var(--grayishBlue);
 }
+
+.verydarkblue{
+    color: var(--veryDarkBlue);
+}
