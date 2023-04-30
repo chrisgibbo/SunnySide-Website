@@ -42,3 +42,7 @@ body{
 .f-f-900{
     font-weight: 900;
 }
+
+.dark-blue{
+    color: var(--darkBlue);
+}
