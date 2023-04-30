@@ -67,3 +67,11 @@ body{
 .bg-modcyan {
     background-color: var(--darkModCyan);
 }
+
+.social-icon-div path{
+    fill: #2C7566;
+}
+
+.social-icon-div path:hover{
+    fill: #fff;
+}
