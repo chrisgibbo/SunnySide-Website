@@ -12,10 +12,8 @@ font family Barlow 600, Fraunces 700, 900 */
 
 :root {
     /* Primay colors */
-    --softRred: hsl(7, 99%, 70%);
-    --yellow: hsl(51, 100%, 49%);
     --darkCyan: hsl(167, 40%, 24%); 
-    --darkBlue: hsl(198, 62%, 26%);
+    --darkGreen: hsl(198, 62%, 26%);
     --darkModCyan: hsl(168, 34%, 41%);
 
     /* Neutral colors */
@@ -23,7 +21,6 @@ font family Barlow 600, Fraunces 700, 900 */
     --veryDarkBlue: hsl(213, 9%, 39%);
     --darkBlue: hsl(232, 10%, 55%);
     --grayishBlue: hsl(210, 4%, 67%);
-    --white: hsl(0, 0%, 100%);
 }
 
 body{
@@ -57,4 +54,16 @@ body{
 
 .verydarkcyan{
     color: var(--veryDarkCyan);
+}
+
+.darkcyan{
+    color: var(--darkCyan);
+}
+
+.darkgreen{
+    color: var(--darkGreen);
+}
+
+.darkmodcyan {
+    color: var(--darkModCyan);
 }
